@@ -1,0 +1,27 @@
+@media screen and (max-width: 1100px) {
+
+
+    .card-body {
+        size: 50%;
+    }
+
+
+}
+
+@media screen and (max-width: 1030px) {
+
+    .sidebar {
+        display: none;
+    }
+
+
+}
+
+@media screen and (max-width: 750px) {
+
+    .container {
+        size: 60%;
+    }
+
+
+}
